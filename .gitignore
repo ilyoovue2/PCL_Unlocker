@@ -1,0 +1,11 @@
+/.vs
+/PCL
+
+# .NET build outputs
+**/bin/
+**/obj/
+/artifacts/
+
+# Local tool/test outputs
+*.user
+*.suo
